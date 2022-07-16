@@ -1,3 +1,33 @@
+# Formulario tipo chat
+
+
+Proyecto desarrollado con Vite
+> npm init vite@latest
+
+Instalar dependencias
+```
+npm i 
+```
+
+Iniciar un entorno de desarollo
+```
+npm run dev
+```
+
+Para agregar una base de datos es necesario crear el archivo
+```
+.env
+```
+Y modificar la variable de entorno
+```
+VITE_DB_HOST
+```
+
+Desplegar Proyecto con:
+```
+npm run build
+```
+
 # Requerimientos del programa
 
 Generar el siguiente formulario en forma de chat construido con componentes
